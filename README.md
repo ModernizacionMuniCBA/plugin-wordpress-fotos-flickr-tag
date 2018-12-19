@@ -2,7 +2,6 @@
 
 Muestra fotos de Flickr filtrando las mismas por tags.
 
-Este plugin conecta Wordpress con una API que provee la información de las zonas, horarios, empresas y tipos de recolección.
 
 Instalación:
 
