@@ -1,0 +1,24 @@
+.tarjeta_flickr{box-shadow:0 2px 6px 0 rgba(0,0,0,.5);max-width:20%;min-width:20%;display:inline-block;margin:20px 15px;}
+.tarjeta_flickr:hover{}
+.tarjeta_flickr .foto_flickr{width:100%;height:230px;}
+.tarjeta_flickr .foto_flickr img{object-fit:cover;width:100%;height:230px}
+.tarjeta_flickr .nombre{}
+.cargarmas{width:100%;text-align:center;}
+.cargarmas a{padding: 10px 15px;background-color: #00a665;color: #fff;font-size: 16px;margin-top: 20px;display: inline-block;border-radius: 5px;box-shadow: 0 2px 6px 0 rgba(0,0,0,.5);font-weight:600;}
+.cargarmas a:hover{background-color:#3ead50;}
+
+
+
+
+@media(max-width:768px){
+	.tarjeta_flickr{width:30%;max-width:none !important}
+}
+@media(max-width:425px){
+	.tarjeta_flickr{width:90%;max-width:none !important}
+}
+@media(min-width:992px){
+	
+}
+@media(min-width:1200px){
+	
+}
