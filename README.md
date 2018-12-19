@@ -1,1 +1,2 @@
-# plugin-wordpress-fotos-flickr-tag
+# Plugin Wordpress para mostrar imágenes desde Flickr, por tags.
+
